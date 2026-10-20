@@ -1,0 +1,8 @@
+[base]
+name = 'opendcc.hair_groom'
+
+[[environment.PYTHONPATH]]
+value = 'python'
+
+[[python.entry_point]]
+module = 'hairgroom.plugin'
